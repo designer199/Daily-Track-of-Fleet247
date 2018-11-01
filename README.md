@@ -1,5 +1,7 @@
 # Daily-Track-of-Fleet247
 
+[Demo of work](https://designer199.github.io/final-nav-bar/)
+
 Dated : 25 oct 2018
 
 ### Things to be done tommorow 
@@ -27,8 +29,25 @@ I had to redo the navigation bar since  a lot of redundant rules were used . Sty
  
  ## Dated : 31 oct 2018
 
-[Demo of responsive nav bar](https://designer199.github.io/final-nav-bar/)
+
 
 - [x] Navigation Bar is completed and responsive.
 
 - [ ] I am currently working to make the add booking form responsive.
+
+
+
+## Dated : 31 oct 2018
+
+
+- [x] Navigation Bar is completed and responsive.
+
+- [ ] I am currently working to make the add booking form responsive.
+
+## Dated : 1st Nov 2018
+
+- [x] Counter section is completed and responsive for mobile ,tablet and desktop.
+  
+- [ ] I am currently working to make the add booking form responsive.
+
+
