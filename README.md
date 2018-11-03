@@ -2,6 +2,18 @@
 
 [Demo of responsive web page](https://designer199.github.io/Add-Form-Page/)
 
+
+## Dated : 3rd Nov 2018
+Incorporated following changes in add form page
+
+- [x] Input boxes are not aligned properly.
+- [x] Submit button should be at the bottom.
+- [x] Integrated calendar for Pickup time. 
+  #### Note :calender is integrated using jquery .I tried to find a date time picker for  bootstrap4 but its only avaliable in bootstrap 3.
+ - [x] Completed Add Booking page (https://designer199.github.io/Add-Form-Page/)
+- [x] Completed Add client page (https://designer199.github.io/add-client-form/)
+- [ ] Half way through add driver page (https://designer199.github.io/add-driver/)
+
 ## Dated : 2st Nov 2018
 
 - [x] Add form page is completed and responsive for mobile ,tablet and desktop.
