@@ -1,6 +1,11 @@
 # Daily-Track-of-Fleet247
 
-[Demo of responsive web page](https://designer199.github.io/Add-Form-Page/)
+## Dated : 5th Nov 2018
+[Demo of add driver web page](https://designer199.github.io/Add-Taxi-Details/)
+- [x] Add Taxi page is reponsive/mobile-first.
+
+[Demo of add driver web page](https://designer199.github.io/add-driver/)
+- [x] Add driver page is reponsive/mobile-first
 
 
 ## Dated : 3rd Nov 2018
