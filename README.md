@@ -1,5 +1,11 @@
 # Daily-Track-of-Fleet247
 
+## Dated : 9th Nov 2018
+[Demo of self billing web page](https://designer199.github.io/self-billing-page/)
+- [x] completed self billing page.
+- [ ] Working on making a modal window for each form .
+
+
 ## Dated : 5th Nov 2018
 [Demo of add driver web page](https://designer199.github.io/Add-Taxi-Details/)
 - [x] Add Taxi page is reponsive/mobile-first.
