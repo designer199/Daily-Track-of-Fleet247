@@ -8,7 +8,8 @@
 ### Issues I addressed 
 * Changed the dropdown arrow for all selectboxes for consistent view. After failed attempts with font awesome. I achieved it with help of a simple image.
 * Removed dotted hover styles for select boxes and navbar.
- 
+
+ View before I addressed the issues for firefox the dotted hover styles are cannot be seen since it is an image. 
  ![View before I addressed the issues for firefox](images/beforeview.png)
    
 
