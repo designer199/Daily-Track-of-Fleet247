@@ -1,6 +1,8 @@
 # Daily-Track-of-Fleet247
 ## Dated 13th Nov 2018
 [Deployed the site on herouko](https://floating-plains-28292.herokuapp.com/)
+- [x] Changed logo for fleet247.
+- [x] Deployed the site on herouko
 - [x] Worked on browser compatibility issues for firefox
 
 ### Issues I addressed 
