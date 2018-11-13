@@ -1,12 +1,13 @@
 # Daily-Track-of-Fleet247
 ## Dated 13th Nov 2018
-- [x] Deployed the site on herouko
+[Deployed the site on herouko](https://floating-plains-28292.herokuapp.com/)
 - [x] Worked on browser compatibility issues for firefox
+
 ### Issues I addressed 
 * Changed the dropdown arrow for all selectboxes for  consistent view.
 * Removed dotted hover styles for select boxes and navbar.
  
- ![View before I addressed the issues for firefox](before view.png)
+ ![View before I addressed the issues for firefox](images/beforeview.png)
    
 
 ## Dated 12th Nov 2018
