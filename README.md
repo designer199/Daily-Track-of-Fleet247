@@ -3,9 +3,11 @@
 - [x] Deployed the site on herouko
 - [x] Worked on browser compatibility issues for firefox
 ### Issues I addressed 
-     changed the dropdown arrow for all selectboxes for  consistent view.
-     Removed dotted hover styles for select boxes and navbar.
-     
+* Changed the dropdown arrow for all selectboxes for  consistent view.
+* Removed dotted hover styles for select boxes and navbar.
+ 
+ ![View before I addressed the issues for firefox](before view.png)
+   
 
 ## Dated 12th Nov 2018
 
