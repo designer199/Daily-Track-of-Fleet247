@@ -1,4 +1,12 @@
 # Daily-Track-of-Fleet247
+## Dated 13th Nov 2018
+- [x] Deployed the site on herouko
+- [x] Worked on browser compatibility issues for firefox
+### Issues I addressed 
+     changed the dropdown arrow for all selectboxes for  consistent view.
+     Removed dotted hover styles for select boxes and navbar.
+     
+
 ## Dated 12th Nov 2018
 
 - [x] I integrated/linked all the forms.
