@@ -1,4 +1,11 @@
 # Daily-Track-of-Fleet247
+## Dated 14th Nov 2018
+### Issues I addressed 
+- [x]  Made the font size of menu bar little small.
+- [x]  Integrated select2.js .The select.js is not visible for addtaxi page I can't figure out the reason.
+- [ ]  Font is not uniform in forms . I am still working on this .Right now I can't figure out the reason.
+- [ ]  I am currently working on datatables.In order to make it responsive.
+
 ## Dated 13th Nov 2018
 [Deployed the site on herouko](https://floating-plains-28292.herokuapp.com/)
 - [x] Changed logo for fleet247.
