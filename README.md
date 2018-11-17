@@ -1,4 +1,13 @@
 # Daily-Track-of-Fleet247
+
+## Dated 17th Nov 2018
+
+[Demo of page](https://designer199.github.io/active-unassigned/)
+### Issues I addressed 
+- [x] Made the datatables reponsive (It was quite challenging ).
+- [ ] Tried to make the add form page responsive (Increasing the width of form container is not the solution as I thought )
+- [ ] I am currently working on making the modal window (it shows on clicking the cancel button).
+
 ## Dated 14th Nov 2018
 ### Issues I addressed 
 - [x]  Made the font size of menu bar little small.
