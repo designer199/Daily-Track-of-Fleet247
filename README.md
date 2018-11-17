@@ -4,7 +4,7 @@
 
 [Demo of page](https://designer199.github.io/active-unassigned/)
 ### Issues I addressed 
-- [x] Made the datatables reponsive (It was quite challenging ).
+- [x] Made the datatables reponsive (It was quite challenging just including responsivedatatables.js was not the solution as I thought it was).
 - [ ] Tried to make the add form page responsive (Increasing the width of form container is not the solution as I thought )
 - [ ] I am currently working on making the modal window (it shows on clicking the cancel button).
 
