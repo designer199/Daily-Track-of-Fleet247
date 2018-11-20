@@ -1,4 +1,12 @@
 # Daily-Track-of-Fleet247
+## Dated 20th Nov 2018
+
+[Demo of page](https://floating-plains-28292.herokuapp.com/)
+### Issues I addressed 
+- [x] Resized the select box so it does not go outside the container on reducing browser window width.
+- [x] Added modals for add new taxi and add new driver (It was challenging to find out where I was wrong).
+- [x] Linked all the forms with archived unassigned page and deployed on herouko.
+
 
 ## Dated 17th Nov 2018
 
