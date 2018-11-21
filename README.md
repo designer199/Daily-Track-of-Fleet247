@@ -1,4 +1,13 @@
 # Daily-Track-of-Fleet247
+## Dated 21st Nov 2018
+
+[Demo of page](https://floating-plains-28292.herokuapp.com/)
+### Issues I addressed 
+- [x] Completed archived assigned bookings page .
+  * Completed reassign/add page
+- [x] Linked all the forms in self-booking menu item  and deployed on herouko.
+NOTE Cancelled Bookings Page is remaining.
+
 ## Dated 20th Nov 2018
 
 [Demo of page](https://floating-plains-28292.herokuapp.com/)
