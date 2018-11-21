@@ -5,6 +5,7 @@
 ### Issues I addressed 
 - [x] Completed archived assigned bookings page .
   * Completed reassign/add page
+- [x] Changed layout in mobile to one column from 2 column.(There are still some alignment issues.Need to work on them)  
 - [x] Linked all the forms in self-booking menu item  and deployed on herouko.
 NOTE Cancelled Bookings Page is remaining.
 
