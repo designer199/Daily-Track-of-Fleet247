@@ -1,5 +1,14 @@
 # Daily-Track-of-Fleet247
-## Dated 21st Nov 2018
+## Dated 24th Nov 2018
+
+[Demo of page](https://floating-plains-28292.herokuapp.com/)
+### Issues I addressed 
+- [x] Aligned the plus sign for cancelled bookings page .
+* This was really challenging because same classes are being used in datatables.css and is applied for all pages.
+I could come up with a solution but now the table  has a horizontal scroll :( .
+- [x] changed all the styles for active button on view clients page so that it is aligned properly.
+Finally I could do it :D
+
 
 [Demo of page](https://floating-plains-28292.herokuapp.com/)
 ### Issues I addressed 
