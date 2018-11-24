@@ -9,7 +9,7 @@ I could come up with a solution but now the table  has a horizontal scroll :( .
 - [x] changed all the styles for active button on view clients page so that it is aligned properly.
 Finally I could do it :D
 
-
+## Dated 21st Nov 2018
 [Demo of page](https://floating-plains-28292.herokuapp.com/)
 ### Issues I addressed 
 - [x] Completed archived assigned bookings page .
