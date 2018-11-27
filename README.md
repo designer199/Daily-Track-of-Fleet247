@@ -7,8 +7,9 @@
 - [x] Worked on [trip details page](https://floating-plains-28292.herokuapp.com/clientdetails.html) in order to make it responsive.
 - [x] completed [client contact page](https://floating-plains-28292.herokuapp.com/clientcontact.html)
 - [ ] working on [client rates page](https://floating-plains-28292.herokuapp.com/clientrates.html)
+
  #### Problems that I am facing in clent rates page
- * Active button should be aligned when it visible and when its not .
+ * Active button should be aligned when it visible and when its not the same css rules cannot be applied for both the cases.
  * In view client page its not visible in laptop .So there was no such issue. 
 
 ## Dated 24th Nov 2018
