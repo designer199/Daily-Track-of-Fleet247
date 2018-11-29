@@ -1,4 +1,13 @@
 # Daily-Track-of-Fleet247
+# Dated 29th Nov 2018
+
+[Demo of page](https://floating-plains-28292.herokuapp.com/)
+### Issues I addressed 
+
+- [ ] Worked on [view driver page](https://floating-plains-28292.herokuapp.com/viewdriver.html)
+- [x] Made  Active button should be aligned in both cases when responsive property is true and false for datatables.  
+
+
 ## Dated 27th Nov 2018
 
 [Demo of page](https://floating-plains-28292.herokuapp.com/)
