@@ -1,4 +1,10 @@
 # Daily-Track-of-Fleet247
+# Dated 3rd Dec 2018
+
+### Issues I addressed 
+
+- [x] Completed driver details page
+ 
 # Dated 29th Nov 2018
 
 [Demo of page](https://floating-plains-28292.herokuapp.com/)
