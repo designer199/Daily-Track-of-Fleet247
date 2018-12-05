@@ -1,4 +1,13 @@
 # Daily-Track-of-Fleet247
+# Dated 5th Dec 2018
+- [x] [Completed add client ratespage](https://floating-plains-28292.herokuapp.com/addclientrates.html)
+- [x] [Completed Add contact page ](https://floating-plains-28292.herokuapp.com/addclientcontact.html)
+- [x] [Completed VIew Taxi page ](http://127.0.0.1:5500/viewvehicle.html)
+- [x] [completed taxi details page](https://floating-plains-28292.herokuapp.com/taxitripdetails.html)
+- [ ] I am working on unbilledinvoice page 
+   ### Issues I am facing here
+   * I am not able to increase the width of Pickup details column.
+   
 # Dated 3rd Dec 2018
 
 ### Issues I addressed 
