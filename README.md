@@ -7,6 +7,9 @@
 - [ ] I am working on unbilledinvoice page 
    ### Issues I am facing here
    * I am not able to increase the width of Pickup details column.
+   Pages that are remaining in fleet247
+   The billing pages 
+   The main dashboard page
    
 # Dated 3rd Dec 2018
 
