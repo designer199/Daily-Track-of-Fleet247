@@ -1,4 +1,10 @@
 # Daily-Track-of-Fleet247
+# Dated 6th Dec 2018
+- [x] [Completed profile page](https://floating-plains-28292.herokuapp.com/profile.html)
+- [x] [Change password page is not yet completed ](https://floating-plains-28292.herokuapp.com/changepassword.html)
+- [x] Added profile item in the navbar.
+
+
 # Dated 5th Dec 2018
 - [x] [Completed add client ratespage](https://floating-plains-28292.herokuapp.com/addclientrates.html)
 - [x] [Completed Add contact page ](https://floating-plains-28292.herokuapp.com/addclientcontact.html)
